@@ -1,0 +1,10 @@
+Player's frost armor now: 2
+
+The player tried to make a field with wrong size.
+Current hero position: [1][0]
+
+Health: 15
+Frost armor: 2
+Fire armor: 0
+Agility: 0
+
