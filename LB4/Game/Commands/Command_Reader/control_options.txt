@@ -1,0 +1,6 @@
+up
+left
+down
+right
+exit
+stats
